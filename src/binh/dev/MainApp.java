@@ -1,0 +1,9 @@
+package binh.dev;
+
+public class MainApp {
+    public static void main(String[] args) {
+    	String firstName = "Tran";
+		System.out.println("Hello World");
+	}
+
+}
